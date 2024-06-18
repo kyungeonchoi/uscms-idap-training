@@ -9,6 +9,7 @@ For convenience, we list things here as well:
 
 - columnar analysis tutorial: [jpivarski-talks/2024-06-20-uscms-princeton-tutorial](https://github.com/jpivarski-talks/2024-06-20-uscms-princeton-tutorial)
 - Analysis Grand Challenge: [iris-hep/analysis-grand-challenge/](https://github.com/iris-hep/analysis-grand-challenge/) and https://agc.readthedocs.io/
+- Sample game - notebook 5: [CoffeaTeam/coffea-hats](https://github.com/CoffeaTeam/coffea-hats)
 
 ## Event details
 
