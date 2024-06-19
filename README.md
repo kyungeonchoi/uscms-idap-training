@@ -7,6 +7,7 @@ This repository gathers material related to the USCMS/IRIS-HEP Analysis Software
 Content relevant to the specific sessions of the event is also linked on indico.
 For convenience, we list things here as well:
 
+- Intro about coffea-casa facility: [oshadura/coffea-casa-intro](https://github.com/oshadura/coffea-casa-intro)
 - columnar analysis tutorial: [jpivarski-talks/2024-06-20-uscms-princeton-tutorial](https://github.com/jpivarski-talks/2024-06-20-uscms-princeton-tutorial)
 - Analysis Grand Challenge: [iris-hep/analysis-grand-challenge/](https://github.com/iris-hep/analysis-grand-challenge/) and https://agc.readthedocs.io/
 - Sample game - notebook 5: [CoffeaTeam/coffea-hats](https://github.com/CoffeaTeam/coffea-hats)
