@@ -19,7 +19,7 @@ This two day event plans to discuss:
 
 - Columnar analysis and uproot
 - Distributed analysis and Dask
-- Data Visualization techniques and libraries
+- [Data Visualization techniques and libraries](https://github.com/andrzejnovak/iris_hep_analysis_training_mplhep_2024)
 - Coffea columnar analysis framework
 - The Coffea-Casa analysis facility
 - Statistical tools
