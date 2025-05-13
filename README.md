@@ -9,7 +9,10 @@ For convenience, we list things here as well:
 
 - Intro about coffea-casa facility: [oshadura/coffea-casa-intro](https://github.com/oshadura/coffea-casa-intro)
 - columnar analysis tutorial: Add link here
-- Analysis Grand Challenge: [iris-hep/analysis-grand-challenge/](https://github.com/iris-hep/analysis-grand-challenge/) and https://agc.readthedocs.io/
+- Analysis Grand Challenge:
+  - [coffea + Combine](https://github.com/iris-hep/calver-coffea-agc-demo/tree/2025_IRISHEP_Training) 
+  - [iris-hep/analysis-grand-challenge/](https://github.com/iris-hep/analysis-grand-challenge/)
+  - [docs](https://agc.readthedocs.io/)
 
 ## Event details
 
